@@ -1,0 +1,39 @@
+.bg{
+    top:auto;
+    position: relative;
+    z-index: -2;
+    background-color: #f6eada;
+    height: 370px;
+    width:auto;
+}
+
+.bgkopi {
+    z-index: -3;
+    height:440px;
+    position: absolute;
+    width:800px;
+    top:-100px;
+}
+
+.container {
+    z-index:-3;
+}
+
+.kotak {
+    margin-top: -240px;
+    height: 320px;
+    margin-left: -40px;
+    margin-right: -40px;
+    background-color: #f9d9aa;
+    border-radius: 35px;
+}
+
+.rating{
+    border: solid rgba(178, 163, 163, 0,543)4px;
+    background-color: white;
+    width: 70px;
+    height: 33px;
+    justify-content: center;
+    align-items: center;
+}
+
